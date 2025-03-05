@@ -24,7 +24,7 @@ Attribute via ORCID contributions of the community, such as annotation propertie
 
 The following criteria reflect the philosophy behind DUO and should be considered when considered changes to DUO: 
 
-* Purpose: changes should promote responsible AND effective data sharing (i.e., integration and re-use of scientific resources).
+* Purpose: changes should promote responsible AND effective data sharing (i.e., integration and reuse of scientific resources).
 * Simplicity: the simplicity of DUO makes it easier for users to understand the meaning of the terms, their range, and the relationship between them. It also reduces fragmentation of terms across scientific resources. Changes that increase complexity should outweigh risks to user understanding or fragmentation of rules. 
 * Legitimate Interests: new terms should address a common and legitimate ethical interest (e.g. of a data subject or data provider), that align with the spirit of data sharing. Terms that essentially block data sharing should not be codified into data sharing infrastructure.
 * Interoperability: changes should not confuse the meaning of existing terms, and should not be a breaking change undermining interoperability of existing implementations.

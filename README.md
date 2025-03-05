@@ -216,7 +216,7 @@ The following describes queries by research purpose and which datasets with DU r
 ### Can DUO handle data privacy/data protection law compliance?
 - DUO terms describe permitted data use purposes and conditions, mainly focused on research uses of data. These terms are derived from a review of international data sharing practices and ethical principles, and not from a systematic review of applicable legal requirements. 
 - DUO is not validated as a compliance tool for any particular legal framework, such as the European General Data Protection Regulation (GDPR). 
-- Organizations implementing DUO to inform decisions to release or re-use data remain fully responsible for ensuring those decisions comply with applicable laws and regulations. 
+- Organizations implementing DUO to inform decisions to release or reuse data remain fully responsible for ensuring those decisions comply with applicable laws and regulations. 
 - In the future, DUO might be adapted and validated for a particular legal compliance context, or integrated with a data protection compliance ontology.  
 ### Is Use of DUO GDPR Compliant?
 - DUO terms describe generic conditions for which a dataset (or other scientific resource) may be used. The terms are not intended to contain any personal data about sequenced individuals or data users (e.g. researchers). It is the responsibility of DUO adopters to ensure DUO is implemented in a manner that respects applicable data privacy laws. 
@@ -228,7 +228,7 @@ The following describes queries by research purpose and which datasets with DU r
 
 The latest version of the ontology is always available at http://purl.obolibrary.org/obo/duo.owl
 DUO is versioned by date, e.g., http://purl.obolibrary.org/obo/duo/releases/2017-10-16/duo.owl. Each release is tagged on Github and a corresponding Permanent URL is created. This ensure versions remain accessible and can be uniquely referred to.
-A list of all releases is avaialble at https://github.com/EBISPOT/DUO/releases/.
+A list of all releases is available at https://github.com/EBISPOT/DUO/releases/.
 
 We have a strict deprecation policy compliant with the OBO Foundry principles: once created, IDs are never deleted. If changes altering the meaning of a term are required, the term is deprecated and a new one is created, for which a new ID is minted.
 

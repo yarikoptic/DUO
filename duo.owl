@@ -460,7 +460,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DUO_0000002">
         <rdfs:subClassOf rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A categorical data item indicating the primary category the consent code belongs to according to Dyke et al. 2016.</obo:IAO_0000115>
-        <obo:IAO_0000231 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This term was depreacted as it is not used to tag datasets but instead as patterns for DUO codes capture. This is an archive specific requirement, e.g. &quot;one code from a primary category and one or more from a second category&apos;
+        <obo:IAO_0000231 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This term was deprecated as it is not used to tag datasets but instead as patterns for DUO codes capture. This is an archive specific requirement, e.g. &quot;one code from a primary category and one or more from a second category&apos;
 This is better done by Schemablocks and constraining the pattern of usage of DUO terms at each archive level.</obo:IAO_0000231>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DUO:0000002</oboInOwl:id>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">obsolete consent code primary category</rdfs:label>
@@ -474,7 +474,7 @@ This is better done by Schemablocks and constraining the pattern of usage of DUO
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DUO_0000003">
         <rdfs:subClassOf rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A categorical data item indicating the secondary category the consent code belongs to according to Dyke et al. 2016.</obo:IAO_0000115>
-        <obo:IAO_0000231 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This term was depreacted as it is not used to tag datasets but instead as patterns for DUO codes capture. This is an archive specific requirement, e.g. &quot;one code from a primary category and one or more from a second category&apos;
+        <obo:IAO_0000231 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This term was deprecated as it is not used to tag datasets but instead as patterns for DUO codes capture. This is an archive specific requirement, e.g. &quot;one code from a primary category and one or more from a second category&apos;
 This is better done by Schemablocks and constraining the pattern of usage of DUO terms at each archive level.</obo:IAO_0000231>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DUO:0000003</oboInOwl:id>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">obsolete consent code secondary category</rdfs:label>
