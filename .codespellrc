@@ -1,0 +1,7 @@
+[codespell]
+# Ref: https://github.com/codespell-project/codespell#using-a-config-file
+skip = .git*,*.pdf,*.svg,.codespellrc,duo-spanish.owl
+check-hidden = true
+# ignore acronyms
+ignore-regex = \b[A-Z]{2,}\b
+ignore-words-list = requestor
